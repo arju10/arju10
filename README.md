@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am Arju ,highly passionate about Data Engineer, Machine Learning, Deep Learning, Artificial Intelligence and also Software Engineering.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arju10.arju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arju10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mst.tahminajerinarju@gmail.com) 
@@ -12,9 +15,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arju10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arju10&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arju10&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arju10&icon=0&color=0)](https://visitcount.itsvg.in)
