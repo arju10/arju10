@@ -1,5 +1,45 @@
 # 💫 About Me:
-I am Arju ,highly passionate about Data Engineer, Machine Learning, Deep Learning, Artificial Intelligence and also Software Engineering.
+I am a passionate and motivated professional with a strong background in Machine Learning, AI development, and Software Engineering. I thrive on solving complex problems and creating technology-driven solutions that make a real impact. With hands-on experience in data analysis, model building, and software development, I enjoy tackling new challenges and turning ideas into reality.
+
+My deep interest in technology keeps me constantly learning and adapting to new advancements. Whether it’s working with machine learning models, developing AI-driven systems, building efficient data pipelines, or analyzing large datasets to extract meaningful insights, I’m driven by the potential of technology to make a difference.
+
+I’m particularly passionate about how data and AI can work together to solve real-world problems and drive meaningful change. My goal is to keep growing in these fields and contribute to projects that push the boundaries of what’s possible while having a positive impact on people’s lives.
+
+---
+# 💼 Experiences:
+
+### 🧠 Machine Learning Engineer — *Software Intelligence*
+**Feb 2025 – Present**
+
+* Conducted research and implemented machine learning models to solve agricultural challenges.
+* Developed and deployed the **Agriculture AI Assistant** independently, from start to finish, ensuring that it met the required objectives.
+* Managed all aspects of data processing, including cleaning and preparing data for model training.
+* Designed, trained, and tested machine learning models, ensuring they performed accurately and effectively.
+* Continuously fine-tuned models for optimal performance, based on testing results.
+* Responsible for debugging and resolving any issues that arose in the AI systems during the development and deployment stages.
+* Maintained detailed documentation of the models and processes for future reference and to ensure clarity in the workflow.
+
+### 🤖 AI/ML Research Intern — Time Research & Innovation
+**Jan 2025 – Mar 2025**
+- Built a smart RAG (Retrieval-Augmented Generation) system that finds and returns useful information using large language models.
+- Used ChromaDB to store and search text data in vector form for fast and accurate results.
+- Created smart agents using LLM-as-Agent (LLMA) tools that can plan and complete tasks on their own.
+- Connected tools like retrievers and summarizers using LangChain to build flexible AI workflows.
+- Used and fine-tuned models with Hugging Face Transformers and OpenAI APIs for tasks like question answering and summarization.
+- Measured model performance with simple metrics and also asked people to test results and give feedback.
+- Wrote clear documentation and shared updates with the team regularly.
+- Worked closely with other researchers and developers to turn ideas into working AI tools.
+### 🚀 Software Developer Intern — **Goinnovior Limited**  
+**Feb 2024 – June 2024**  
+- Collaborated with cross-functional teams to design and build scalable backend systems for an enterprise-grade POS Inventory Management platform.  
+- Engineered clean, maintainable, and modular APIs using **TypeScript**, **Express.js**, and **Node.js**, ensuring high performance and reliability.  
+- Modeled complex data relationships using **Mongoose** and **MongoDB**, focusing on scalability, data consistency, and optimized query performance.  
+- Implemented comprehensive input validation and error handling using **Zod**, enhancing the robustness and security of the application.  
+- Actively participated in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives, contributing to continuous delivery and improvement.  
+- Conducted rigorous testing, debugging, and performance tuning to ensure backend services meet functional and non-functional requirements.  
+- Collaborated in code reviews and followed Git-based workflows to maintain code quality and team alignment.
+
+---
 
 
 ## 🌐 Socials:
