@@ -17,7 +17,7 @@ Currently, I’m focused on growing my expertise in developing intelligent syste
 # 💼 Experience:
 
 ### 🧠 Machine Learning Engineer — *Software Intelligence*  
-**Feb 2025 – Present**  
+**Feb 2025 – May 2025**  
 - Conducted applied ML research targeting challenges in the agricultural sector.  
 - Independently designed and deployed an **Agriculture AI Assistant**, handling full-cycle development.  
 - Processed and prepared large datasets for model training and evaluation.  
