@@ -18,10 +18,15 @@ Currently, I’m focused on growing my expertise in developing intelligent syste
 
 ### 🧠 Machine Learning Engineer — *Software Intelligence*  
 **Feb 2025 – May 2025**  
-- Conducted applied ML research targeting challenges in the agricultural sector.  
-- Independently designed and deployed an **Agriculture AI Assistant**, handling full-cycle development.  
-- Processed and prepared large datasets for model training and evaluation.  
-- Developed and fine-tuned machine learning models for high accuracy and robustness.  
+- Designed and developed an intelligent Bangla Agricultural Advisor Chatbot, a full-stack web application to assist users with agricultural queries using Bengali language.
+  - Supported text, voice, and image-based queries to deliver actionable insights and personalized recommendations.
+  - Integrated NLP models for Bengali language understanding and image classification models for crop disease detection.
+  - Built with Django, RESTful APIs, and deployed ML models to production-ready systems.
+- Implemented an end-to-end Bangla OCR and NLP pipeline:
+  - Extracted text from images using OCR and applied core NLP techniques (tokenization, stemming, lemmatization, POS tagging, NER) to process and analyze Bangla language data.
+  - Enhanced text processing and classification accuracy for various downstream tasks.
+  - Collaborated on model training, performance tuning, and system integration in a team environment.
+- Gained hands-on experience across the machine learning lifecycle, from data preprocessing to deployment.  
 - Identified and resolved bugs during model development and deployment.  
 - Maintained detailed documentation and version tracking for models and workflows.
 
