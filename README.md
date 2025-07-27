@@ -58,10 +58,9 @@ Currently, I’m focused on growing my expertise in developing intelligent syste
   *Independent University, Bangladesh*  
   _Sep 2024 – Present (Expected Graduation: Aug 2025)_
 
-- ### Bachelor of Business Administration (BBA)  
+- ### Bachelor in Management Information Systems (MIS)
   *Independent University, Bangladesh*  
   _May 2019 – Sep 2024_  
-  **Major:** Management Information Systems (MIS)  
   **Minor:** Big Data and High-Performance Computing
 
 - ### Higher Secondary Certificate (HSC)  
