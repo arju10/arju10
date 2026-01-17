@@ -56,7 +56,7 @@ Currently, I’m focused on growing my expertise in developing intelligent syste
 
 - ### MSc in Computer Science  
   *Independent University, Bangladesh*  
-  _Sep 2024 – Present (Expected Graduation: Aug 2025)_
+  _Sep 2024 – Aug 2025_
 
 - ### Bachelor in Management Information Systems (MIS)
   *Independent University, Bangladesh*  
