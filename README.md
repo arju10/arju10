@@ -31,7 +31,7 @@ Currently, I’m focused on growing my expertise in developing intelligent syste
 - Maintained detailed documentation and version tracking for models and workflows.
 
 ### 🤖 AI/ML Research Intern — *Time Research & Innovation*  
-**Jan 2025 – Mar 2025**  
+**Dec 2024 – Apr 2025**  
 - Built a smart RAG (Retrieval-Augmented Generation) system powered by large language models.  
 - Utilized **ChromaDB** for efficient vector-based storage and retrieval.  
 - Developed autonomous AI agents using LLMA (LLM-as-Agent) frameworks.  
