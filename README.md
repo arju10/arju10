@@ -41,7 +41,7 @@ Currently, I’m focused on growing my expertise in developing intelligent syste
 - Authored technical documentation and presented findings to the team.
 
 ### 🚀 Software Developer Intern — *Goinnovior Limited*  
-**Feb 2024 – Jun 2024**  
+**Feb 2024 – May 2024**  
 - Designed and implemented scalable backend systems for an enterprise-grade POS Inventory Management platform.  
 - Built RESTful APIs using **TypeScript**, **Express.js**, and **Node.js**, with performance and maintainability in focus.  
 - Managed MongoDB data modeling with **Mongoose**, emphasizing data integrity and scalability.  
