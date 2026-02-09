@@ -1,4 +1,4 @@
-# Hi there, I'm Tahmina Jerin Arju 👋
+# Hi there, Mst. I'm Tahmina Jerin Arju 👋
 
 <div align="center">
   
@@ -59,6 +59,10 @@ Currently pursuing my **MSc in Computer Science** at Independent University, Ban
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Databases & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -125,40 +129,3 @@ Currently pursuing my **MSc in Computer Science** at Independent University, Ban
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-Below are some of my key projects that showcase my expertise in AI/ML and Backend Development. Each repository contains detailed documentation about the implementation, technologies used, and my specific contributions.
-
-**👉 Check out my pinned repositories below for:**
-- 🤖 AI/ML projects with end-to-end pipelines
-- 🔧 Scalable backend systems and APIs
-- 📊 Data analysis and NLP implementations
-- 🌾 Domain-specific AI solutions
-
----
-
-## 💡 What I'm Working On
-
-- 🔭 Building intelligent RAG systems and AI agents
-- 🌱 Deepening expertise in MLOps and model deployment
-- 💬 Exploring advanced NLP techniques for low-resource languages
-- 🚀 Contributing to open-source AI/ML projects
-
----
-
-<div align="center">
-
-### 📫 Let's Connect!
-
-I'm always interested in collaborating on AI/ML projects and backend development opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arju10)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=arju10&icon=2&color=6)
-
-⭐️ From [arju10](https://github.com/arju10)
-
-</div>
