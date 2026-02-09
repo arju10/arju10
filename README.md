@@ -11,11 +11,10 @@
 
 ## 🚀 About Me
 
-I'm a **Backend & AI/ML Engineer** passionate about building intelligent, scalable systems that solve real-world problems. My expertise lies at the intersection of **machine learning**, **NLP**, and **backend architecture**, where I develop production-ready AI solutions and robust APIs.
+Hi! I'm Tahmina Jerin Arju, a Backend & AI/ML Engineer. I love building smart and useful systems that solve real problems.
+I have experience in machine learning, NLP, and backend development, creating AI solutions, APIs, and data-driven applications.
 
-Currently pursuing my **MSc in Computer Science** at Independent University, Bangladesh, I specialize in developing end-to-end ML pipelines, from data preprocessing to deployment, while architecting scalable backend systems that power intelligent applications.
-
-**🎯 Career Vision:** To architect and deploy intelligent systems that leverage AI and scalable backend solutions to create meaningful impact, particularly in domains like agriculture, healthcare, and enterprise automation.
+🎯 My Goal: Build AI systems and backend solutions that make a real impact.
 
 ---
 
